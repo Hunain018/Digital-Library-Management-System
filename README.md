@@ -1,6 +1,6 @@
 
 Readme · MD
-# 📚 Library Management System 
+# 📚 Library Management S
  
 A simple Library Management System built with **Python** and **Streamlit**, featuring a clean, custom-styled UI. Users can view, search, borrow, return, and add books through an interactive web interface.
  
