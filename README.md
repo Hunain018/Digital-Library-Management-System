@@ -4,7 +4,7 @@ Readme · MD
  
 A simple Library Management System built with **Python** and **Streamlit**, featuring a clean, custom-styled UI. Users can view, search, borrow, return, and add books through an interactive web interface.
  
-## Features
+## Features 
  
 - 📖 **View Books** — See all books currently in the library with availability status
 - 🔍 **Search Book** — Search by title or author
